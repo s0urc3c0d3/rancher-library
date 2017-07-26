@@ -1,5 +1,5 @@
 name: Mesos
-description: Default Mesos template
+description: Default Mesosphere Mesos template
 stacks:
   - name: mesos
     templateId: 'tmpl-community:infra*mesos'
